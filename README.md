@@ -1,3 +1,5 @@
+Authors: [Cristina Romero Mirete], [Daniel Frau Alfaro], [Jesús López Galbis], [Iñigo Zárate Rico]
+
 # Question answering project
 
 This project aims to create a system that can generate the answer to a determined question. This system is made of 2 different models. One, (information retrieval) is in charge of reading the user's question and identifying the document with related information about it.
@@ -15,7 +17,7 @@ This is the system part that indexes all the documents in a dataset and identifi
 
 To evaluate different model performances to be used with the final dataset ([Papers by Subject]), another smaller dataset with ground truth information is used. [CISI] dataset fills these requirements with 1.460 documents and 112 associated queries. You can find tested models with results in the table below, and also a Google Collab notebook with the experiment results.
 
-<a target="_blank" href="https://colab.research.google.com/drive/1z8yL7FyolUSLP-qTwOK1NYkurvPB6qUh?usp=sharing">
+<a target="_blank" href="https://colab.research.google.com/drive/1JdqBLOO3AnFsDi-wWicBVNeeelsZa_UJ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -28,3 +30,7 @@ To evaluate different model performances to be used with the final dataset ([Pap
 
 [Papers by Subject]: https://www.kaggle.com/datasets/arplusman/papers-by-subject/data
 [CISI]: https://www.kaggle.com/datasets/dmaso01dsta/cisi-a-dataset-for-information-retrieval
+[Cristina Romero Mirete]: https://github.com/crisrm128
+[Daniel Frau Alfaro]: https://github.com/DanielFrauAlfaro
+[Jesús López Galbis]: https://github.com/jlg90
+[Iñigo Zárate Rico]: https://github.com/izarte
