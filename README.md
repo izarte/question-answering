@@ -1,4 +1,4 @@
-Authors: [Cristina Romero Mirete], [Daniel Frau Alfaro], [Jesús López Galbis], [Iñigo Zárate Rico]
+Authors: [Daniel Frau Alfaro], [Jesús López Galbis], [Cristina Romero Mirete], [Iñigo Zárate Rico]
 
 # Question answering project
 
